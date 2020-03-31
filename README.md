@@ -1,8 +1,8 @@
-# Homework Assignment 9
+# Homework Assignment 10
 
 **Note**: For this homework assignment, feel free to use any part of the code from
-the [solution](https://github.com/HPM573/HW_7_Solution) 
-to [homework assignment 7](https://classroom.github.com/a/zV0Hzay6).
+the [solution](https://github.com/HPM573/HW_8_Solution) 
+to Homework Assignment 8.
 
 Answer these two questions for the Game of Chance you simulated 
 in previous homework assignments. 
